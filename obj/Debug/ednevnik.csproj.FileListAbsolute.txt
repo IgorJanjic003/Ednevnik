@@ -1,0 +1,12 @@
+C:\Users\Igor\source\repos\ednevnik\bin\Debug\ednevnik.exe.config
+C:\Users\Igor\source\repos\ednevnik\bin\Debug\ednevnik.exe
+C:\Users\Igor\source\repos\ednevnik\bin\Debug\ednevnik.pdb
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.Form1.resources
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.Properties.Resources.resources
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.exe
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.pdb
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.Login.resources
+C:\Users\Igor\source\repos\ednevnik\obj\Debug\ednevnik.Meni.resources
